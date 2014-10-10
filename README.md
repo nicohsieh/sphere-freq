@@ -1,4 +1,4 @@
 sphere-freq
 ===========
 
-frequency reactive sphere made in openFrameworks
+Frequency reactive sphere made in openFrameworks
